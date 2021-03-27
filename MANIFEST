@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Device-SDM3055.t
+lib/Device/SDM3055.pm
